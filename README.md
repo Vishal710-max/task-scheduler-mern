@@ -2,6 +2,10 @@
 
 A full-stack task management app upgraded from a localStorage-based React project into a complete **MERN** application (MongoDB, Express, React, Node.js) with JWT authentication.
 
+Frontend - https://task-scheduler-mern.vercel.app
+
+Backend - https://task-scheduler-mern.onrender.com
+
 ## Features
 
 - User registration & login (JWT-based auth)
